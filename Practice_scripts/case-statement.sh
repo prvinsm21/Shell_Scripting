@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#
 action=${1}
 #action=${1,,} # This will take input argument as small eventhough input passed in Capital
 # Start, Stop, Restart, Reload
