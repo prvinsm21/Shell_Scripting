@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Hardware details
 TIME=1
 
 function processador() {
